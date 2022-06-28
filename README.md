@@ -6,5 +6,5 @@ As you can see in my repos I love to learn, Clojure, PHP, Python, Javascript, Ru
 
 
 - 🔭 I’m currently working at [Nubank](https://github.com/nubank) as an Eng Manager
-- 🌱 I’m currently learning Accounting, Investments, Clojure, Flutter...
+- 🌱 I’m currently learning nextjs, accounting ledgers and journals and how to apply them ...
 - ⚡ Fun facts: 18 years ago I created a underground website where its still running https://soulgothic.com.br/principal
