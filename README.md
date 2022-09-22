@@ -8,3 +8,10 @@ As you can see in my repos I love to learn, Clojure, PHP, Python, Javascript, Ru
 - 🔭 I’m currently working at [Nubank](https://github.com/nubank) as an Eng Manager
 - 🌱 I’m currently learning nextjs, accounting ledgers and journals and how to apply them ...
 - ⚡ Fun facts: 18 years ago I created a underground website where its still running https://soulgothic.com.br/principal
+
+--- 
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pvgomes&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvgomes&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pvgomes)
