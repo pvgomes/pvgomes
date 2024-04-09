@@ -9,7 +9,6 @@ As you can see in my repos I love to learn, Clojure, PHP, Python, Javascript, Ru
 - 🌱 I was born in a poor country and software engineering opened the world for me, because of that I teach as much as I can people how to code for free
 - ⚡ Fun facts: 
   - Over 1M people reached on [Stack Overflow](https://stackoverflow.com/users/3043524/paulo-victor)
-  - 18 years ago I created an underground website that its still running https://soulgothic.com.br/principal
 
 --- 
 
