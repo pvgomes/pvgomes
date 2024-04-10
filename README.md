@@ -6,7 +6,10 @@ As you can see in my repos I love to learn, Clojure, PHP, Python, Javascript, Ru
 
 
 - 🔭 I’m currently working at [Nubank](https://github.com/nubank) as an Sr Eng Manager
-- 🌱 I'm from Brazil and software engineering opened the world for me, because of that I teach as much as I can people how to code for free
+- 🇺🇸 I am a software engineer from Brazil, and coding has opened up the world for me. Because of that, I teach people how to code for free as much as I can
+- 🇧🇷 Sou engenheiro de software do Brasil e a programação abriu o mundo para mim. Por isso, ensino o máximo possível de pessoas a programar gratuitamente
+- 🇵🇱 Jestem inżynierem oprogramowania z Brazylii, a programowanie otworzyło dla mnie świat. Dlatego uczę ludzi programowania za darmo, ile tylko mogę
+- 🇩🇪 Ich bin Softwareingenieur aus Brasilien, und das Codieren hat mir die Welt eröffnet. Deshalb unterrichte ich so viele Menschen wie möglich kostenlos im Programmieren
 - ⚡ Fun facts: 
   - Over 1M people reached on [Stack Overflow](https://stackoverflow.com/users/3043524/paulo-victor)
 
