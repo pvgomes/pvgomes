@@ -10,6 +10,7 @@ As you can see in my repos I love to learn, Clojure, PHP, Python, Javascript, Ru
 - 🇧🇷 Sou engenheiro de software do Brasil e a programação abriu o mundo para mim. Por isso, ensino o máximo possível de pessoas a programar gratuitamente
 - 🇵🇱 Jestem inżynierem oprogramowania z Brazylii, a programowanie otworzyło dla mnie świat. Dlatego uczę ludzi programowania za darmo, ile tylko mogę
 - 🇩🇪 Ich bin Softwareingenieur aus Brasilien, und das Codieren hat mir die Welt eröffnet. Deshalb unterrichte ich so viele Menschen wie möglich kostenlos im Programmieren
+- 📍 Living in Berlin - DE
 - ⚡ Fun facts: 
   - Over 1M people reached on [Stack Overflow](https://stackoverflow.com/users/3043524/paulo-victor)
 
