@@ -24,7 +24,7 @@ As you can see in my repos I love to learn, Clojure, PHP, Python, Javascript, Ru
 
 --- 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvgomes&hide=html)](https://github.com/pvgomes)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvgomes&hide=html,css,php&cache_bust=1)](https://github.com/pvgomes)
 
 --- 
 [![Stats](https://github-readme-stats.vercel.app/api?username=pvgomes)](https://github.com/pvgomes/github-readme-stats)
