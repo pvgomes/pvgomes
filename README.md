@@ -22,9 +22,3 @@ As you can see in my repos I love to learn, Clojure, PHP, Python, Javascript, Ru
   - I have a youtube channel with some videos about tech and career named [Tech or Meh](https://www.youtube.com/@tech-or-meh)
   - Over 1M people reached on [Stack Overflow](https://stackoverflow.com/users/3043524/paulo-victor)
 
---- 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvgomes&hide=html,css,php&cache_bust=1)](https://github.com/pvgomes)
-
---- 
-[![Stats](https://github-readme-stats.vercel.app/api?username=pvgomes)](https://github.com/pvgomes/github-readme-stats)
