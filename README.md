@@ -13,7 +13,7 @@ As you can see in my repos I love to learn, Clojure, PHP, Python, Javascript, Ru
 
 
 
-- 🔭 I’m currently working at [Nubank](https://github.com/nubank) as an Sr Eng Manager
+- 🔭 I’m currently working at [Nubank](https://github.com/nubank) as Senior Staff Software Engineer
 - 🇺🇸 I am a software engineer from Brazil, and coding has opened up the world for me. Because of that, I teach people tech career and code as much as I can
 - 🇧🇷 Sou engenheiro de software do Brasil e a programação abriu o mundo para mim. Por isso, ensino o máximo possível de pessoas a carreira tech e programar 
 - 🇵🇱 Jestem programista z Brazylii, a programowanie otworzyło dla mnie świat. Dlatego uczę ludzi programowania za darmo, ile tylko mogę
