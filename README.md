@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Paulo Victor Gomes or Paulo Victor Smolarek
+Paulo Victor Leite Lima Gomes or Paulo Victor Smolarek
 
 [pvgomes.com](https://pvgomes.com/)
 
