@@ -18,6 +18,6 @@ Clojure, Rust, PHP, Python, Javascript, Ruby, Java... doesn't matter, I like all
 
 - ⚡ Links:
   - My udemy course Become a Software Engineer with AI [link](https://www.udemy.com/course/become-an-associate-software-engineer/?referralCode=343833A9A8B63836435A)
-  - I have a youtube channel with some videos about tech and career named [Tech or Meh](https://www.youtube.com/@tech-or-meh)
+  - I like to write, since 2015 [Blog](https://pvgomes.com)
   - Over 1M people reached on [Stack Overflow](https://stackoverflow.com/users/3043524/paulo-victor)
 
